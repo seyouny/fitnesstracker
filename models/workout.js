@@ -7,7 +7,7 @@ day:{
     type: Date,
     default: Date.now
     },
-exercise:[{
+exercise:{
     weight: {
         type: Number,
           required: "Enter the weight"
@@ -33,7 +33,7 @@ exercise:[{
             trim:true,
             required: "Enter the type of exercise"
         }
-}]
+}
 
 })
 
