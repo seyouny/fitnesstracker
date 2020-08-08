@@ -22,30 +22,25 @@ The user should be able to:
 
   * View multiple the combined weight of multiple exercises on the `stats` page.
 
-## Commit Early and Often
+### Deployed Link
+[GitHub] https://github.com/seyouny/fitnesstracker
+[Heroku] https://arcane-earth-78639.herokuapp.com/?id=5f2e499c08070b00171a15ad
 
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
+### Built With
 
-1. Your commit history is a signal to employers that you are actively working on projects and learning new skills
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-2. Your commit history allows you to revert your code base in the event that you need to return to a previous state
 
-Follow these guidelines for committing:
+### Authors
 
-* Make single purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits
+Seyoung Yoon
 
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history
+- [Link to Github](https://github.com/seyouny)
+- [Link to LinkedIn](https://www.linkedin.com/in/seyouny/)
 
-* Don't commit half done work, for the sake of your collaborators (and your future self!)
+See also the list of contributors who participated in this project.
 
-* Test your application before you commit to ensure functionality at every step in the development process
-
-We would like you to have well over 200 commits by graduation, so commit early and often!
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* The URL to the deployed application
-
-* The URL to the Github repository
+### License
+This project is licensed under the MIT License
